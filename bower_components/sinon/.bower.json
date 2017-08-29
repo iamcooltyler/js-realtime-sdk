@@ -1,0 +1,11 @@
+{
+  "name": "sinon",
+  "_cacheHeaders": {
+    "Last-Modified": "Sun, 27 Aug 2017 18:12:08 GMT",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "main": "index.js",
+  "_source": "http://sinonjs.org/releases/sinon-1.17.3.js",
+  "_target": "*",
+  "_originalSource": "http://sinonjs.org/releases/sinon-1.17.3.js"
+}
